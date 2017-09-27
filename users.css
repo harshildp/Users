@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    padding:30px 0px 0px 30px;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border:1px solid black;
+}
+th{
+    padding:10px 25px 10px 25px;
+}
+form{
+    width:400px;
+}
+    form h1{
+        border-bottom:1px black solid;
+        margin-top:50px;
+    }
+label{
+    display:block;
+    margin:30px;
+    text-align:right;
+}
+input{
+    margin-left:20px;
+}
+    #enter{
+        padding:10px 30px 10px 30px;
+        margin-left:250px;
+    }
